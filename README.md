@@ -1,8 +1,8 @@
-# 이 승 민 (Seungmin Lee)
+# 이 승 민 (Seung Min Lee)
 
 **iOS & Full-Cycle Developer** *"남들이 10시간 걸릴 일을 기술과 전략으로 1시간에 끝내는 고효율 엔지니어"*
 
-[📧 Email](mailto:승민님_이메일주소) | [🔗 Github](https://github.com/승민님_아이디) | [🔗 Blog/Portfolio](블로그_또는_포트폴리오_링크)
+[📧 Email](mailto:adgk2349b@gmail.com) | [🔗 Github](https://github.com/adgk2349) | [🔗 Blog/Portfolio](https://leesfolio.duckdns.org)
 
 ---
 
