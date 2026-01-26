@@ -58,10 +58,11 @@
 ### 4. Travel Guide (여행 정보 플랫폼)
 *2024 (Capstone Design)*
 > **사용자 맞춤형 여행지 추천 및 정보 제공 웹 서비스**
-* **Role:** Lead Developer (백엔드)
+* **Role:** Lead Developer (Full-Stack: Frontend & Backend)
 * **Key Achievements:**
-    * **Crisis Management:** 프로젝트 도중 백엔드 담당 팀원의 이탈로 발생한 공백을 메우기 위해 **Django 서버 및 DB 설계를 전담**하여 기한 내 완수.
-    * **Team Collaboration:** 갑작스러운 R&R 변경에도 유연하게 대처하며 프론트엔드 팀원과 API 명세 재정의 및 협업 주도.
+    * **Crisis Management :** 백엔드 담당 팀원의 갑작스러운 이탈로 프로젝트 중단 위기가 발생했으나, **R&R을 백엔드(Django)까지 확장**하여 API 개발 및 프론트엔드 연동을 주도적으로 완수.
+    * **Problem Solving & Polish:** 기존의 불안정한 연동 문제를 해결하기 위해 백엔드 로직을 재설계하고, 사용자 경험(UX)을 고려하여 **UI 디자인 리뉴얼**까지 직접 수행.
+    * **Full-Cycle 구축:** AWS 대신 On-premise 리눅스 서버에 Docker와 Nginx를 활용한 배포 환경 직접 구축.
 
 ### 5. macOS Safari 한글 깨짐 해결 유틸리티
 *2025 (Desktop Utility)*
