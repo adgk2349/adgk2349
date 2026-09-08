@@ -76,5 +76,5 @@
 ## Languages
 
 - Korean: Native
-- Japanese: Advanced (JLPT N1)
+- Japanese: Advanced (JLPT N1 取得準備中)
 - English: Intermediate (technical documentation and practical communication)
