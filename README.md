@@ -76,5 +76,5 @@ I build products end-to-end, from idea to deployment.
 ## Languages
 
 - Korean: Native
-- Japanese: Advanced (JLPT N1)
+- Japanese: Advanced (JLPT N1 in progress)
 - English: Intermediate (technical documentation and practical communication)
