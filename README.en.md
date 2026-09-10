@@ -1,11 +1,11 @@
 # Seung Min Lee
 
-[English](README.md) · [한국어](README.ko.md) · [日本語](README.ja.md)
+**English** · [한국어](README.md) · [日本語](README.ja.md)
 
 **iOS & Full-Cycle Developer**  
 I build products end-to-end, from idea to deployment.
 
-[Email](mailto:adgk2349b@gmail.com) | [GitHub](https://github.com/adgk2349) | [Portfolio](https://adgk2349.github.io)
+[Email](mailto:adgk2349b@gmail.com) | [GitHub](https://github.com/adgk2349) | [Blog](https://adgk2349.github.io)
 
 ---
 
