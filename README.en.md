@@ -2,7 +2,7 @@
 
 **English** · [한국어](README.md) · [日本語](README.ja.md)
 
-**iOS & Full-Cycle Developer**  
+**iOS Developer | From Product Planning to Launch and Operations**  
 I build products end-to-end, from idea to deployment.
 
 [Email](mailto:adgk2349b@gmail.com) | [GitHub](https://github.com/adgk2349) | [Blog](https://adgk2349.github.io)
@@ -49,6 +49,7 @@ I build products end-to-end, from idea to deployment.
 
 ### 4) KDecoder for Mac
 - Repo: [KDecoder_for_Mac](https://github.com/adgk2349/KDecoder_for_Mac)
+- App Store: [KDecoder](https://apps.apple.com/kr/app/kdecoder-%EA%B9%A8%EC%A7%84-%ED%95%9C%EA%B8%80-%ED%8C%8C%EC%9D%BC%EB%AA%85-%EB%B3%B5%EC%9B%90/id6806795869?mt=12)
 - A drag-and-drop utility that fixes Korean filename corruption (NFD/NFC) issues on macOS.
 - Implements normalization logic to improve real-world file compatibility.
 
@@ -64,6 +65,7 @@ I build products end-to-end, from idea to deployment.
 
 ### 7) YouTube Looper (Safari Extension)
 - Repo: [Youtube_Looper](https://github.com/adgk2349/Youtube_Looper)
+- App Store: [Looper for Youtube](https://apps.apple.com/kr/app/looper-for-youtube/id6805764066?mt=12)
 - A lightweight Safari extension for infinite YouTube looping on macOS.
 
 ---
