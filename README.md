@@ -5,7 +5,7 @@
 **iOS & Full-Cycle Developer**  
 문제를 빠르게 구조화하고, 제품화까지 연결하는 개발자입니다.
 
-[Email](mailto:adgk2349b@gmail.com) | [GitHub](https://github.com/adgk2349) | [Portfolio](https://adgk2349.github.io)
+[Email](mailto:adgk2349b@gmail.com) | [GitHub](https://github.com/adgk2349) | [Blog](https://adgk2349.github.io)
 
 ---
 
