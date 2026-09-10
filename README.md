@@ -42,6 +42,8 @@
 - 빠른 분석을 위해 핵심 엔진을 Rust로 구현했고, VS Code 확장 배포본에서만 발생한 우클릭 미동작 문제와 노드 겹침으로 인한 가독성 문제를 이후 업데이트에서 개선했습니다.
 
 ### 3) Biblity: 매일 가볍게 만나는 성경 구절
+- Repo: [Biblity](https://github.com/adgk2349/Biblity)
+- App Store: [Biblity: 데일리 성경 구절](https://apps.apple.com/kr/app/biblity-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%84%B1%EA%B2%BD-%EA%B5%AC%EC%A0%88/id6805680473)
 - 기존 성경 앱들이 정보량이 많고 화면이 복잡하다고 느껴, 무작위 구절과 알림으로 하나의 구절에 집중할 수 있는 iOS 앱을 만들었습니다.
 - 초기 웹 기반 구절 요청 방식에서 데이터 정제 부담, 연속 요청 시 누락, 인터넷 필수라는 제약을 겪어 앱 내부 로컬 DB로 전환했습니다.
 
