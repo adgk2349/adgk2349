@@ -1,11 +1,11 @@
 # イ・スンミン (Seung Min Lee)
 
-[English](README.md) · [한국어](README.ko.md) · [日本語](README.ja.md)
+[English](README.en.md) · [한국어](README.md) · [日本語](README.ja.md)
 
 **iOS & Full-Cycle Developer**  
 課題を素早く構造化し、プロダクト化までつなげる開発者です。
 
-[Email](mailto:adgk2349b@gmail.com) | [GitHub](https://github.com/adgk2349) | [Portfolio](https://adgk2349.github.io)
+[Email](mailto:adgk2349b@gmail.com) | [GitHub](https://github.com/adgk2349) | [Blog](https://adgk2349.github.io)
 
 ---
 
