@@ -42,6 +42,8 @@ I build products end-to-end, from idea to deployment.
 - Core engine written in Rust for fast analysis; a later update fixed a right-click regression that only appeared in the packaged VS Code extension and improved node-overlap readability in the graph.
 
 ### 3) Biblity: A Lightweight Daily Bible Verse App
+- Repo: [Biblity](https://github.com/adgk2349/Biblity)
+- App Store: [Biblity: Daily Bible Verse](https://apps.apple.com/kr/app/biblity-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%84%B1%EA%B2%BD-%EA%B5%AC%EC%A0%88/id6805680473)
 - Existing Bible apps felt information-heavy and cluttered for reading a single short verse, so Biblity centers on one verse at a time via random draw or notification.
 - Switched from live web-scraped verses to an on-device database after hitting data-cleaning overhead, request failures under rapid succession, and an internet-connectivity requirement.
 
