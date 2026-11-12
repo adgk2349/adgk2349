@@ -73,7 +73,7 @@ I build products end-to-end, from idea to deployment.
 ## Education
 
 - Hanshin University, B.S. in Computer Engineering (Transfer) | 2023.03 - 2027.02 (Expected)
-- Sunchon National University, Multimedia Engineering | 2021.03 - 2022.12
+- Sunchon National University, Multimedia Engineering | 2020.03 - 2023.02
 
 ---
 
